@@ -19,8 +19,9 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+    font: 18px/1.4 $helvetica;
+    background-image: url("images/pardus-hd-wallpaper-2.jpg");
+    color: $darkGray;
 }
 
 .container {
@@ -28,6 +29,7 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+  background: $white;
 }
 
 h1, h2, h3, h4, h5, h6 {
