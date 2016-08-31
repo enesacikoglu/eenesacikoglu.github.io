@@ -1,3 +1,7 @@
+---
+published: false
+---
+published:true
 # Learning Path (Enes Açıkoğlu)
 
 ### Tech
