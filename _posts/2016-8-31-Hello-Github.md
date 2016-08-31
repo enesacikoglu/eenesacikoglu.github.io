@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 published:true
 # Learning Path (Enes Açıkoğlu)
